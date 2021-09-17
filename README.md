@@ -1,5 +1,4 @@
 # Deep-Q-Network-Lunar-lander
-This repository is the implementation for udacity DRL DQN exercise. 
 In this exercise, I have implemented a DQN agent and demonstrated how to use it to solve an OpenAI Gym environment.
 Here, you can see how I have used the concept of experienced replay and fixed Q-target to stabalize the neural networks.
 
