@@ -1,5 +1,9 @@
 # Deep-Q-Network-Lunar-lander
+
 In this project, I have implemented a DQN agent and demonstrated how to use it to solve an OpenAI Gym environment.
+
+![LunarLander-gif](LunarLander.gif)
+
 Here, you can see how I have used the concept of experienced replay and fixed Q-target to stabalize the neural networks.
 
 For the Lunarlander environment details refer to the following link:
